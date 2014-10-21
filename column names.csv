@@ -1,0 +1,79 @@
+"""tBodyAcc-mean()-X""                                                                                    ",mean of body acceleration in the time domain on the X axis of the phone
+"""tBodyAcc-mean()-Y""                                                                                  ",mean of body acceleration in the time domain on the Y axis of the phone
+"""tBodyAcc-mean()-Z""                                                                                        ",mean of body acceleration in the time domain on the Z axis of the phone
+"""tGravityAcc-mean()-X""                                                                             ",mean of gravity acceleration in the time domain on the X axis of the phone
+"""tGravityAcc-mean()-Y""                                                                              ",mean of gravity acceleration in the time domain on the Y axis of the phone
+"""tGravityAcc-mean()-Z""                                                                             ",mean of gravity acceleration in the time domain on the Z axis of the phone
+"""tBodyAccJerk-mean()-X""                                                                        ",mean of jerk of the body acceleration in the time domain on the X axis of the phone
+"""tBodyAccJerk-mean()-Y""                                                                                                                                         ",mean of jerk of the body acceleration in the time domain on the Y axis of the phone
+"""tBodyAccJerk-mean()-Z""                                                                         ",mean of jerk of the body acceleration in the time domain on the Z axis of the phone
+"""tBodyGyro-mean()-X""                                                                               ",mean of body angular velociy in the time domain on the X axis of the phone
+"""tBodyGyro-mean()-Y""                                                                               ",mean of body angular velociy in the time domain on the Y axis of the phone
+"""tBodyGyro-mean()-Z""                                                                               ",mean of body angular velociy in the time domain on the Z axis of the phone
+"""tBodyGyroJerk-mean()-X""                                                                      ",mean of jerk of the body angular velociy in the time domain on the X axis of the phone
+"""tBodyGyroJerk-mean()-Y""                                                                      ",mean of jerk of the body angular velociy in the time domain on the Y axis of the phone
+"""tBodyGyroJerk-mean()-Z""                                                                      ",mean of jerk of the body angular velociy in the time domain on the Z axis of the phone
+"""tBodyAccMag-mean()""                                                                             ",mean of body acceleration magnitude in the time domain
+"""tGravityAccMag-mean()""                                                                        ",mean of gravity acceleration magnitude in the time domain
+"""tBodyAccJerkMag-mean()""                                                                     ",mean of body acceleration jerk magnitude in the time domain
+"""tBodyGyroMag-mean()""                                                                          ",mean of body angular velocity magnitude in the time domain
+"""tBodyGyroJerkMag-mean()""                                                                  ",mean of body angular velocity jerk magnitude in the time domain
+"""fBodyAcc-mean()-X""                                                                                 ",mean of body acceleration in the frequency domain on the X axis of the phone
+"""fBodyAcc-mean()-Y""                                                                                 ",mean of body acceleration in the frequency domain on the Y axis of the phone
+"""fBodyAcc-mean()-Z""                                                                                                      ",mean of body acceleration in the frequency domain on the Z axis of the phone
+"""fBodyAcc-meanFreq()-X""                                                                        ",Weighted average of the frequency components of body acceleration in the frequency domain on the X axis of the phone
+"""fBodyAcc-meanFreq()-Y""                                                                        ",Weighted average of the frequency components of body acceleration in the frequency domain on the Y axis of the phone
+"""fBodyAcc-meanFreq()-Z""                                                                          ",Weighted average of the frequency components of body acceleration in the frequency domain on the Z axis of the phone
+"""fBodyAccJerk-mean()-X""                                                                              ",mean of the jerk of the body acceleration in the frequency domain on the X axis of the phone
+"""fBodyAccJerk-mean()-Y""                                                                                   ",mean of the jerk of the body acceleration in the frequency domain on the Y axis of the phone
+"""fBodyAccJerk-mean()-Z""                                                                                       ",mean of the jerk of the body acceleration in the frequency domain on the Z axis of the phone
+"""fBodyAccJerk-meanFreq()-X""                                                                                ",Weighted average of the frequency components of body acceleration jerk in the frequency domain on the X axis of the phone
+"""fBodyAccJerk-meanFreq()-Y""                                                                                ",Weighted average of the frequency components of body acceleration jerk in the frequency domain on the Y axis of the phone
+"""fBodyAccJerk-meanFreq()-Z""                                                                                ",Weighted average of the frequency components of body acceleration jerk in the frequency domain on the Z axis of the phone
+"""fBodyGyro-mean()-X""                                                                                                                                                ",mean of body angular velocity in the frequency domain on the X axis of the phone
+"""fBodyGyro-mean()-Y""                                                                                                                                                     ",mean of body angular velocity in the frequency domain on the Y axis of the phone
+"""fBodyGyro-mean()-Z""                                                                                                                                                        ",mean of body angular velocity in the frequency domain on the Z axis of the phone
+"""fBodyGyro-meanFreq()-X""                                                                                                                                      ",Weighted average of the frequency components of body angular velocity in the frequency domain on the X axis of the phone
+"""fBodyGyro-meanFreq()-Y""                                                                                                                                        ",Weighted average of the frequency components of body angular velocity in the frequency domain on the Y axis of the phone
+"""fBodyGyro-meanFreq()-Z""                                                                          ",Weighted average of the frequency components of body angular velocity in the frequency domain on the Z axis of the phone
+"""fBodyAccMag-mean()""                                                                             ",mean of body acceleration magnitude in the frequency domain
+"""fBodyAccMag-meanFreq()""                                                                   ",Weighted average of the frequency components of the body acceleration magnitude in the frequency domain
+"""fBodyBodyAccJerkMag-mean()""                                                                       ",mean of jerk of  body body acceleration magnitude in the frequency domain
+"""fBodyBodyAccJerkMag-meanFreq()""                                                      ",Weighted average of the frequency components  of jerk of  body body acceleration magnitude in the frequency domain
+"""fBodyBodyGyroMag-mean()""                                                                ",mean of  body body angular velocity magnitude in the frequency domain
+"""fBodyBodyGyroMag-meanFreq()""                                                                    ",Weighted average of the frequency components  of  body body acceleration magnitude in the frequency domain
+"""fBodyBodyGyroJerkMag-mean()""                                                                ",mean of jerk of  body body angular velocity magnitude in the frequency domain
+"""fBodyBodyGyroJerkMag-meanFreq()""                                                               ",Weighted average of the frequency components  of jerk of  body body angular velocity magnitude in the frequency domain
+"""tBodyAcc-std()-X""                                                                                                     ",standard deviation of body acceleration in the time domain on the X axis of the phone
+"""tBodyAcc-std()-Y""                                                                                                     ",standard deviation of body acceleration in the time domain on the Y axis of the phone
+"""tBodyAcc-std()-Z""                                                                                                     ",standard deviation of body acceleration in the time domain on the Z axis of the phone
+"""tGravityAcc-std()-X""                                                                                                ",standard deviation of gravity acceleration in the time domain on the X axis of the phone
+"""tGravityAcc-std()-Y""                                                                                              ",standard deviation of gravity acceleration in the time domain on the Y axis of the phone
+"""tGravityAcc-std()-Z""                                                                                              ",standard deviation of gravity acceleration in the time domain on the Z axis of the phone
+"""tBodyAccJerk-std()-X""                                                                                         ",standard deviation of jerk of the body acceleration in the time domain on the X axis of the phone
+"""tBodyAccJerk-std()-Y""                                                                                            ",standard deviation of jerk of the body acceleration in the time domain on the Y axis of the phone
+"""tBodyAccJerk-std()-Z""                                                                                             ",standard deviation of jerk of the body acceleration in the time domain on the Z axis of the phone
+"""tBodyGyro-std()-X""                                                                                                 ",standard deviation of body angular velociy in the time domain on the X axis of the phone
+"""tBodyGyro-std()-Y""                                                                                               ",standard deviation of body angular velociy in the time domain on the Y axis of the phone
+"""tBodyGyro-std()-Z""                                                                                               ",standard deviation of body angular velociy in the time domain on the Z axis of the phone
+"""tBodyGyroJerk-std()-X""                                                                                     ",standard deviation of jerk of the body angular velociy in the time domain on the X axis of the phone
+"""tBodyGyroJerk-std()-Y""                                                                                      ",standard deviation of jerk of the body angular velociy in the time domain on the Y axis of the phone
+"""tBodyGyroJerk-std()-Z""                                                                                      ",standard deviation of jerk of the body angular velociy in the time domain on the Z axis of the phone
+"""tBodyAccMag-std()""                                                                                  ",standard deviation of body acceleration magnitude in the time domain
+"""tGravityAccMag-std()""                                                                              ",standard deviation of gravity acceleration magnitude in the time domain
+"""tBodyAccJerkMag-std()""                                                                         ",standard deviation of  the jerk of body acceleration magnitude in the time domain
+"""tBodyGyroMag-std()""                                                                               ",standard deviation of body angular velocity magnitude in the time domain
+"""tBodyGyroJerkMag-std()""                                                                       ",standard deviation of  the jerk of body aangular velocity magnitude in the time domain
+"""fBodyAcc-std()-X""                                                                                      ",standard deviation of body acceleration in the frequency domain on the X axis of the phone
+"""fBodyAcc-std()-Y""                                                                                       ",standard deviation of body acceleration in the frequency domain on the Y axis of the phone
+"""fBodyAcc-std()-Z""                                                                                       ",standard deviation of body acceleration in the frequency domain on the Z axis of the phone
+"""fBodyAccJerk-std()-X""                                                                               ",standard deviation of the jerk of the body acceleration in the frequency domain on the X axis of the phone
+"""fBodyAccJerk-std()-Y""                                                                                ",standard deviation of the jerk of the body acceleration in the frequency domain on the Y axis of the phone
+"""fBodyAccJerk-std()-Z""                                                                                ",standard deviation of the jerk of the body acceleration in the frequency domain on the Z axis of the phone
+"""fBodyGyro-std()-X""                                                                                      ",standard deviation of body angular velocity in the frequency domain on the X axis of the phone
+"""fBodyGyro-std()-Y""                                                                                    ",standard deviation of body angular velocity in the frequency domain on the Y axis of the phone
+"""fBodyGyro-std()-Z""                                                                                    ",standard deviation of body angular velocity in the frequency domain on the Z axis of the phone
+"""fBodyAccMag-std()""                                                                                  ",standard deviation of body acceleration magnitude in the frequency domain
+"""fBodyBodyAccJerkMag-std()""                                                                ",standard deviation of jerk of body acceleration magnitude in the frequency domain
+"""fBodyBodyGyroMag-std()""                                                                     ",standard deviation of body angular velocity magnitude in the frequency domain
+"""fBodyBodyGyroJerkMag-std()""                                                             ",standard deviation jerk of body angular velocity magnitude in the frequency domain
